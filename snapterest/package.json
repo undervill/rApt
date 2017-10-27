@@ -1,0 +1,19 @@
+{
+  "name": "snapterest",
+  "version": "1.0.0",
+  "description": "리액트 활용",
+  "main": "index.js",
+  "scripts": {
+    "test": "테스트 커맨드"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ㅗhttps://github.com/undervill/rApt"
+  },
+  "keywords": [
+    "키워드",
+    "입력"
+  ],
+  "author": "�� author 입력",
+  "license": "ISC"
+}
